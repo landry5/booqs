@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628544604617",
+    "project_id": "booqs2",
+    "storage_bucket": "booqs2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628544604617:android:3da89cd5a0a443a58f0018",
+        "android_client_info": {
+          "package_name": "com.example.booqs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ra0_hqSzkYPiMd6r-EnEC5RE1Y67F8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
