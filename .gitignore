@@ -1,5 +1,5 @@
 *.iml
-.gradle
+
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -13,3 +13,52 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Android-specific files
+
+.gradle/
+.local/
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Gradle-specific files
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle
+gradle-app.setting
+
+# Dependency caches
+**/.cxx/
+**/.idea/caches/
+**/.idea/libraries/
+**/.idea/modules.xml
+**/.idea/workspace.xml
+**/.idea/navEditor.xml
+**/.idea/assetWizardSettings.xml
+**/.idea/httpRequests/
+
+# APKs and generated files
+*.apk
+*.ap_
+*.aab
+*.jar
+*.dex
+
+# Keystore files (Security)
+*.jks
+*.keystore
+
+# Log files and temp files
+*.log
+*.temp
+*.swp
+*.swo
+*.DS_Store
+*.bak
+
+# Android Studio settings (optional)
+*.vscode/
+*.scratch/
+*.sublime-workspace
+.idea
